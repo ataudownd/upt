@@ -1,2 +1,5 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@91.132.94.200:989#%F0%9F%87%B8%F0%9F%87%AESI-91.132.94.200-0676
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.223.16.212:989#%F0%9F%87%A8%F0%9F%87%B4CO-154.223.16.212-5973
+trojan://ji0612uenfs@110.9.4.54:50004?security=tls&encryption=none&type=ws&sni=ji0612e.nfjunka.xyz#v2cross.com
+vmess://eyJhZGQiOiJrYXBlbGxlbmcuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJrYXBlbGxlbmcuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6InYyY3Jvc3MuY29tIiwic25pIjoia2FwZWxsZW5nLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIyMC4xOC4xNDMuMTA3IiwiYWlkIjoiMCIsImhvc3QiOiJicmFyZ28ubHpqNTIwaHh3LmRwZG5zLm9yZyIsImlkIjoiN2RlZTIyMDMtZWU1YS00ZDY0LTgzMjktY2VlZTA1NDM0ODhlIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLWFyZ28/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjM4MzI0IiwicHMiOiJ2MmNyb3NzLmNvbSIsInNuaSI6ImJyYXJnby5semo1MjBoeHcuZHBkbnMub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+trojan://ji0612uenfs@103.232.213.117:8080?security=tls&encryption=none&type=ws&sni=ji0612e.nfjunka.xyz#v2cross.com
+trojan://dQUWbcwECl@20.191.138.47:443?security=tls&encryption=none&type=tcp&sni=automq4-proxy.automq-sg.com#v2cross.com
