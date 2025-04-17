@@ -1,5 +1,5 @@
-trojan://ji0612uenfs@110.9.4.54:50004?security=tls&encryption=none&type=ws&sni=ji0612e.nfjunka.xyz#v2cross.com
-vmess://eyJhZGQiOiJrYXBlbGxlbmcuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJrYXBlbGxlbmcuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6InYyY3Jvc3MuY29tIiwic25pIjoia2FwZWxsZW5nLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIyMC4xOC4xNDMuMTA3IiwiYWlkIjoiMCIsImhvc3QiOiJicmFyZ28ubHpqNTIwaHh3LmRwZG5zLm9yZyIsImlkIjoiN2RlZTIyMDMtZWU1YS00ZDY0LTgzMjktY2VlZTA1NDM0ODhlIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLWFyZ28/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjM4MzI0IiwicHMiOiJ2MmNyb3NzLmNvbSIsInNuaSI6ImJyYXJnby5semo1MjBoeHcuZHBkbnMub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-trojan://ji0612uenfs@103.232.213.117:8080?security=tls&encryption=none&type=ws&sni=ji0612e.nfjunka.xyz#v2cross.com
-trojan://dQUWbcwECl@20.191.138.47:443?security=tls&encryption=none&type=tcp&sni=automq4-proxy.automq-sg.com#v2cross.com
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%AC%F0%9F%87%A7%20GB-85.210.120.237%3A443
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.192.124.188:989#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A7%F0%9F%87%B7%20BR-185.192.124.188%3A989
+
+vless://ce9e7012-01c3-b64b-3d4c-02bb237ae098@37.156.46.44:6718/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=stackoverflow.com&fp=chrome&security=reality&pbk=KmXtdOimd1xGGg7V2rvo74_HxMd6_bzFyosF6Z5c22A&sid=d6d54c08fbbf895f#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%A8%F0%9F%87%AD%20CH-37.156.46.44%3A6718
+vless://c95740bb-b3be-44f9-9fa4-260c3fbec6de@23.88.62.209:2089/?type=tcp&encryption=none&sni=refersion.com&fp=chrome&security=reality&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&sid=e3c5c005cae07eb8#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%A9%F0%9F%87%AA%20DE-23.88.62.209%3A2089
